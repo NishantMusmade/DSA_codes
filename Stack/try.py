@@ -1,0 +1,2 @@
+mystring = 'NA'
+print(mystring)
